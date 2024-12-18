@@ -1,4 +1,4 @@
-Live url:<href https://fetch-table-data.netlify.app/ />
+Live url: https://fetch-table-data.netlify.app/ 
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
