@@ -1,0 +1,30 @@
+.card {
+  margin: 2rem auto;
+  padding: 2rem;
+  max-width: 1200px;
+  background: #f9f9f9;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 1.8rem;
+  color: #333;
+}
+
+.p-highlight {
+  background-color: #d1e7dd !important;
+  color: #0f5132 !important;
+}
+
+.pi {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.title-header {
+  display: flex;
+  align-items: center;
+}
